@@ -1,8 +1,7 @@
 # Produktion
 
-1. Introduktion
-2. [Orientering](production.md#orientation)
-3. [Publicér indsendelsen](production.md#publish)
+1. [Orientering](production.md#orientation)
+1. [Publicér indsendelsen](production.md#publish)
 
 Under produktionstrinnet kan redaktøren tilføje produktionsmedhjælpere, som skal hjælpe med at klargøre de færdigbearbejdede filer til produktion, kaldet satsskibe.
 

@@ -1,9 +1,8 @@
 # Det redaktionelle workflow
 
-1. Introduktion
-2. [Håndtering af indsendelsesdetaljer](editorial-workflow.md#manage-submission-details)
-3. [Redaktionelle valgmuligheder](editorial-workflow.md#editorial-actions)
-4. [Deltagere](editorial-workflow.md#participants)
+1. [Håndtering af indsendelsesdetaljer](editorial-workflow#manage-submission-details)
+1. [Redaktionelle valgmuligheder](editorial-workflow#editorial-actions)
+1. [Deltagere](editorial-workflow#participants)
 
 Det redaktionelle workflow tillader dig at overvåge en indsendelse fra den indledende vurdering, gennem bedømmelse, manuskriptredigering og til produktion, hvor det enkelte nummer klargøres til publikation.
 

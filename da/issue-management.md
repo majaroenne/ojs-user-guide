@@ -1,9 +1,8 @@
 # Numre
 
-1. Introduktion
-2. [Fremtidige numre](issue-management.md#future-issues)
-3. [Tidligere numre](issue-management.md#back-issues)
-4. [Redigér et nummer](issue-management.md#edit-issue)
+1. [Fremtidige numre](issue-management#future-issues)
+1. [Tidligere numre](issue-management#back-issues)
+1. [Redigér et nummer](issue-management#edit-issue)
 
 Fra denne side oprettes fremtidige numre og her kan tidligere numre administreres.
 
@@ -15,7 +14,7 @@ Herved fremkommer:
 
 **Vis** – Spring til nummeret på websitet eller få en forhåndsvisning, hvis det endnu ikke er publiceret.
 
-**Publicér nummer **– Ved at publicere et nummer offentliggøres det på dit website.
+**Publicér nummer**– Ved at publicere et nummer offentliggøres det på dit website.
 
 **Slet** – Fjerner et nummer, kan det ikke fortrydes.
 

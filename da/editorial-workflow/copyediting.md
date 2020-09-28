@@ -1,8 +1,7 @@
 # Manuskriptredigering
 
-1. Introduktion
-2. [Orientering](copyediting.md#orientation)
-3. [Redaktionelle valgmuligheder](copyediting.md#editorial-actions)
+1. [Orientering](copyediting#orientation)
+1. [Redaktionelle valgmuligheder](copyediting#editorial-actions)
 
 Under manuskriptredigeringen udvælger redaktøren en manuskriptredaktør til at redigere indsendelsesfilerne.
 

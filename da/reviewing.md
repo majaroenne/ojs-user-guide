@@ -1,9 +1,8 @@
 # Bedømmelse
 
-1. Introduktion
-2. [At tilmelde sig som bedømmer](reviewing.md#sign-up)
-3. [Færdiggør en bedømmelse](reviewing.md#complete-review)
-4. [Færdiggør din brugerprofil](reviewing.md#complete-user-profile)
+1. [At tilmelde sig som bedømmer](reviewing#sign-up)
+1. [Færdiggør en bedømmelse](reviewing#complete-review)
+1. [Færdiggør din brugerprofil](reviewing#complete-user-profile)
 
 En bedømmer spiller en vigtig rolle i forbindelse med at sikre kvaliteten af videnskabelige udgivelser. Dette afsnit beskriver, hvordan man færdiggør en bedømmelse.
 

@@ -1,8 +1,7 @@
 # Bedømmelsestrinnet
 
-1. Introduktion
-2. [Orientering](review.md#orientation)
-3. [Redaktionelle muligheder](review.md#editorial-actions)
+1. [Orientering](review#orientation)
+1. [Redaktionelle muligheder](review#editorial-actions)
 
 Under bedømmelsestrinnet udvælger redaktøren bedømmere til indsendelsen.
 

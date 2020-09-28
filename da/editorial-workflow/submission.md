@@ -1,7 +1,7 @@
 # Indsendelsestrinnet
 
 1. Introduktion
-2. [Redaktionelle valgmuligheder](submission.md#editorial-actions)
+1. [Redaktionelle valgmuligheder](submission.md#editorial-actions)
 
 Her vurderer redaktøren de indsendte filer og beslutter, om de skal sendes videre til bedømmelse.
 
